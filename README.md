@@ -3,7 +3,6 @@ Fit-E is a simple web app that focuses on employees health in the workplace by s
 
 Personas :
 
+Lwazi: Manager of a small company, she works long hours and doesn't have time to exercise. She uses public transport and she takes three hours to commute each day. Lwazi doesnt have medical-aid and the public clinic is very far from were Lwazi lives. She is married with 1 child. She doesn't have time to go the gym or time to exercise.
 
-Lwazi: Manager of a small company, he works long hours and doesn't have time to exercise. He uses public transport and he takes three hours to commute. Lwazi doesnt have medical-aid and public clinic is very far from were Lwazi lives. He is married with 1 child.He doesn't have time to go the gym or time to exercise.
-
-Jesse: Pragrammer in the small company and her work schedule is very hectic she works long hours. She lives with her parents and uses public transport to commute. Jesse doesn't have time to go the gym or exercise because she is always busy with work.  
+Jesse: Programmer working in a small company. His work schedule is very hectic, sometimes works long hours on development projects. He lives with his parents and uses public transport to commute. Jesse doesn't have time to go the gym or exercise because he is always busy with work.  
